@@ -1,10 +1,10 @@
 import React from 'react'
-import classes from './cd.module.css'
+import './index.css'
 
 export default function CardBody(props) {
     return (
-        <div className={`${classes['card']} ${props.cdClass ? props.cdClass : ''}`}>
-            <div className={`${classes['card-body']} ${props.cdpClass ? props.cdpClass : ''}`}>{props.children}</div>
+        <div className={`card ${props.cdClass ? props.cdClass : ''}`}>
+            <div className={`card-body ${props.cdpClass ? props.cdpClass : ''}`}>{props.children}</div>
         </div>
     )
 }
