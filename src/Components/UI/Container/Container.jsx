@@ -1,7 +1,7 @@
 import React from 'react'
-import classes from '../../assets/css/fc.module.css'
+import classes from './cr.module.css'
 export default function Container(props) {
     return (
-        <div className={`${classes['container']} ${classes[props.ContClass]}`}>{props.Children}</div>
+        <div className={`${classes['container']}`}>{props.children}</div>
     )
 }

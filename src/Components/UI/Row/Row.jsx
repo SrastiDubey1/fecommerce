@@ -1,7 +1,7 @@
 import React from 'react'
-
-export default function Row() {
+import classes from './rw.module.css'
+export default function Row(props) {
     return (
-        <div className={`${classes['row']} ${classes[props.ContClass]}`}>{props.Children}</div>
+        <div className={`${classes['row']} ${props.ContClass ? classes[props.ContClass] : ''}`}>{props.children}</div>
     )
 }
