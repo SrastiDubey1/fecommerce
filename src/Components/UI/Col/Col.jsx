@@ -1,7 +1,7 @@
 import React from 'react'
-import classes from './col-module.css'
-export default function Col() {
+import classes from './cl.module.css'
+export default function Col(props) {
     return (
-        <div className={`${classes['col']} ${classes[props.ContClass]}`}>{props.Children}</div>
+        <div className={`${classes['col']} ${props.ContClass ? props.ContClass : ''}`}>{props.children}</div>
     )
 }
