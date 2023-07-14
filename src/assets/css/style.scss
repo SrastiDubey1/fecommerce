@@ -24,6 +24,9 @@
     --bs-light: #f8f9fa;
     --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
     --bs-gradient-a: linear-gradient(to right, rgba(255, 24, 110, 1) 0%, rgba(255, 109, 49, 1) 100%);
+    --bs-gradient-b: linear-gradient(to right, rgba(255, 109, 49, 1) 0%, rgba(255, 24, 110, 1) 100%);
+    --ratineheight: 17px;
+    --ratinewidth: 86px;
 
 }
 
@@ -125,16 +128,37 @@ body {
     position: relative;
 }
 
-.btn {
-    &.btn-primary {}
+.ptb-7 {
+    padding: 70px 0;
+}
 
-    &.btn-secondary {}
+.btngroup {
+    display: flex;
+    flex-wrap: wrap;
 
-    &.btn-o-primary {}
+    gap: 20px;
+}
 
-    &.btn-o-secondary {}
+table {
+    width: 100%;
+    margin-bottom: 1rem;
+    border: 1px solid #dee2e6;
+    border-collapse: collapse;
+    background-color: transparent;
+}
 
-    &.btn-r-primary {}
+thead {
+    background: #eee;
+}
 
-    &.btn-r-secondary {}
+table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+}
+
+table td,
+table th {
+    padding: 0.75rem;
+    vertical-align: top;
+    border: 1px solid #dee2e6;
 }

@@ -15,7 +15,7 @@ return(
             
         </Routes>
         </BrowserRouter>
-  
-)
+
+    )
 }
 export default AllRoutes;
