@@ -1,0 +1,29 @@
+.card{
+    width: 270px;
+    height: 390px;
+    /* border-radius: 15px solid black; */
+    background-color: rgb(252, 250, 250);
+    border-radius: 10px;
+}
+.card:hover{
+    border: 1px solid  rgb(43, 30, 238);;
+}
+.card_body1{
+    padding: 15px;
+}
+.imges{
+    height: 150px;
+    height: 200px;
+}
+.hading{
+
+}
+.hading:hover{
+    color: rgb(43, 30, 238);
+}
+.price{
+    color: rgb(43, 30, 238);
+}
+.discount{
+    color: rgb(199, 197, 194);
+}

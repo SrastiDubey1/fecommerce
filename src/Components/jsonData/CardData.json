@@ -1,0 +1,64 @@
+[
+  {
+    "Name": "URBAN HIVE",
+    "URL":"https://shopus-quomodo.vercel.app/_next/image?url=https%3A%2F%2Fshopus.minionionbd.com%2Fuploads%2Fcustom-images%2Fnaturally-flavored-cinnamon-coffee-2022-12-11-06-29-53-4105.png&w=1920&q=75",
+    "DressName": "Feminine Wrap Blouse",
+    "discount":"$35",
+    "price":"$150.00",
+    "Review": "4.5 Review",
+    "description": "Add a touch of femininity to any outfit with this beautiful wrap blouse. Made from high-quality materials and featuring a flattering silhouette, it's perfect for any occasion. Add a touch of femininity to any outfit with this beautiful wrap blouse. Made from high-quality materials and featuring a flattering silhouette, it's perfect for any occasion.",
+    "Availability":"475 Products Available",
+    "Category ":"Dresses",
+    "SKU":"d45gg"
+  },
+  {
+    "Name": "URBAN HIVE",
+    "URL":"https://shopus-quomodo.vercel.app/_next/image?url=https%3A%2F%2Fshopus.minionionbd.com%2Fuploads%2Fcustom-images%2Ftrendy-bucket-hat-2023-03-23-12-12-02-7850.png&w=1920&q=75",
+    "DressName": "Trendy Bucket Hat",
+    "discount":"$35",
+    "price":"$150.00",
+    "Review": "4.5 Review",
+    "description": "Add a touch of femininity to any outfit with this beautiful wrap blouse. Made from high-quality materials and featuring a flattering silhouette, it's perfect for any occasion. Add a touch of femininity to any outfit with this beautiful wrap blouse. Made from high-quality materials and featuring a flattering silhouette, it's perfect for any occasion.",
+    "Availability":"475 Products Available",
+    "Category ":"Dresses",
+    "SKU":"d45gg"
+  }, {
+    "Name": "BOHEMIAN MUSE",
+    "URL":"https://shopus-quomodo.vercel.app/_next/image?url=https%3A%2F%2Fshopus.minionionbd.com%2Fuploads%2Fcustom-images%2Fboho-maxi-dress-2023-03-23-12-11-20-1047.png&w=1920&q=75",
+    "DressName": "Boho Maxi Dress",
+    "discount":"$35",
+    "price":"$33.00",
+    "Review": "4.5 Review",
+    "description": "Add a touch of femininity to any outfit with this beautiful wrap blouse. Made from high-quality materials and featuring a flattering silhouette, it's perfect for any occasion. Add a touch of femininity to any outfit with this beautiful wrap blouse. Made from high-quality materials and featuring a flattering silhouette, it's perfect for any occasion.",
+    "Availability":"475 Products Available",
+    "Category ":"Dresses",
+    "SKU":"d45gg"
+  },
+  {
+    "Name": "ETHEREAL CHIC",
+    "URL":"https://shopus-quomodo.vercel.app/_next/image?url=https%3A%2F%2Fshopus.minionionbd.com%2Fuploads%2Fcustom-images%2Fcasual-denim-jacket-2023-03-23-12-11-36-9094.png&w=1920&q=75",
+    "DressName": "Casual Denim Jacket",
+    "discount":"$35",
+    "price":"$8.00",
+    "Review": "4.5 Review",
+    "description": "Stay cool and casual in this versatile denim jacket. Perfect for layering over any outfit, it's made from high-quality denim and features classic styling. Stay cool and casual in this versatile denim jacket. Perfect for layering over any outfit, it's made from high-quality denim and features classic styling.",
+    "Availability":"55 Products Available",
+    "Category ":"Dresses",
+    "SKU":"d45gg"
+  },
+  {
+    "Name": "REFINED THREADS",
+    "URL":"https://shopus-quomodo.vercel.app/_next/image?url=https%3A%2F%2Fshopus.minionionbd.com%2Fuploads%2Fcustom-images%2Ffresh-vegetable-tomato-2022-12-11-06-26-00-8265.png&w=1920&q=75",
+    "DressName": "Casual Denim Jacket",
+    "discount":"$333.00",
+    "price":"$266.40",
+    "Review": "4.5 Review",
+    "description": "Every man needs a great pair of dress shoes in his wardrobe, and our Leather Dress Shoes are the perfect choice. Made with high-quality leather and featuring a sleek, modern design, they're sure to impress.",
+    "Availability":"18 Products Available",
+    "Category ":"Cosmetics",
+    "SKU":"d45gg"
+  }
+  
+
+
+]

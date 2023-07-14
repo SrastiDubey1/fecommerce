@@ -1,0 +1,52 @@
+.div1{
+    padding: 20px;
+}
+.view{
+    width: 1280px;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(235, 240, 238);
+}
+.imaged{
+    width: 640px;
+    
+    padding: 20px;
+}
+.viewImage{
+    width: 400px;
+    height: 450px;
+}
+.details{
+    display: flex;
+    flex-direction: column;
+   
+}
+.review{
+    display: flex;
+    flex-direction: row;
+     gap: 20px;
+}
+.disc{
+    font-size: 15px;
+    color: rgb(119, 118, 116);
+}
+.pric{
+    font-size: 28pxpx;
+  color: rgb(252, 4, 4);  
+}
+.Avalable{
+width: 300px;
+padding: 3px;
+border-radius: 8px;
+background-color: rgb(250, 241, 230);
+}
+.Avalablity{
+color: rgb(36, 50, 241);
+font-size: 18px;
+}
+.cancel{
+    /* left: 100px; */
+    position: relative;
+    top: -17px;
+    
+}
